@@ -126,7 +126,7 @@
 
             <article class="about">
                 <div class="about-icon">
-                    <i class="fas fa-papper-hot"></i>
+                    <i class="fas fa-pepper-hot"></i>
                 </div>
                 <div class="about-text">
                     <h2 class="about-subtitle">Hot & Spicy</h2>
