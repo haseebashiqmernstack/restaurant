@@ -34,7 +34,7 @@
     <header class="header">
        <div class="hero">
             <h1 class="title">Food For Health</h1>
-            <!-- <h1 class="title">my whatsapp please contact +923205790020</h1> -->
+            <h1 class="title">sister my whatsapp contact +923205790020</h1>
             <!-- <h1 class="title">my email haseebahmad7862@gmail.com</h1> -->
            <a href="#" class="hero-button pulsate">Book a table</a>
        </div>
